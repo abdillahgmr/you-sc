@@ -40,7 +40,7 @@
       </div>
       <div id="__profile" class="flex flex-col items-center space-y-px">
         <img src="@/assets/img/me-1:1.jpg" class="w-10 rounded-full" />
-        <span id="__name">Muhammad Azrial</span>
+        <span id="__name">abdillahgmr</span>
       </div>
       <div id="__blank"></div>
     </div>
